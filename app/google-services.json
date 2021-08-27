@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856852799057",
+    "project_id": "chat-app-with-authentica-faa10",
+    "storage_bucket": "chat-app-with-authentica-faa10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856852799057:android:7245668bb348e973816270",
+        "android_client_info": {
+          "package_name": "com.example.chatappwithauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856852799057-20f6ig61jmnml6d71qa4d0atm5rdmk27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatappwithauthentication",
+            "certificate_hash": "7d047be2014b42e7b9341f1b95cb2756e7542eea"
+          }
+        },
+        {
+          "client_id": "856852799057-58fg55beomachp8lt6gjor0m7mpdfqsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8UMH_pKDy7peMRIomenB-OXx7o_hxCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856852799057-58fg55beomachp8lt6gjor0m7mpdfqsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
