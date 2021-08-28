@@ -1,0 +1,22 @@
+com/example/chatappwithauthentication/BuildConfig.java
+ com.example.chatappwithauthentication.BuildConfig
+com/example/chatappwithauthentication/Authentication/Login.java
+ com.example.chatappwithauthentication.Authentication.Login
+ com.example.chatappwithauthentication.Authentication.Login$1
+ com.example.chatappwithauthentication.Authentication.Login$2
+ com.example.chatappwithauthentication.Authentication.Login$3
+ com.example.chatappwithauthentication.Authentication.Login$3$1
+ com.example.chatappwithauthentication.Authentication.Login$3$2
+ com.example.chatappwithauthentication.Authentication.Login$3$2$1
+ com.example.chatappwithauthentication.Authentication.Login$3$2$2
+ com.example.chatappwithauthentication.Authentication.Login$4
+ com.example.chatappwithauthentication.Authentication.Login$5
+ com.example.chatappwithauthentication.Authentication.Login$6
+com/example/chatappwithauthentication/MainActivity.java
+ com.example.chatappwithauthentication.MainActivity
+ com.example.chatappwithauthentication.MainActivity$1
+com/example/chatappwithauthentication/Authentication/Register.java
+ com.example.chatappwithauthentication.Authentication.Register
+ com.example.chatappwithauthentication.Authentication.Register$1
+ com.example.chatappwithauthentication.Authentication.Register$2
+ com.example.chatappwithauthentication.Authentication.Register$3
